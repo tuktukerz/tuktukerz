@@ -1,14 +1,33 @@
-<h1 align="center">Hi 👋, I'm Aflian Mahyaruddin</h1>
-<h3 align="center">A passionate frontend developer from Jakarta, Indonesia.</h3>
+<h2>Aflian Mahyaruddin <g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji></h2>
+<p><em>Student at Gunadarma University | Tech Enthusiast
+</em></p>
 
-- 🌱 I’m currently learning **Python**
+<a href="https://www.linkedin.com/in/aflianm20/" rel="nofollow"><img src="https://camo.githubusercontent.com/b8a1ffcb4b0a201641870c9e5610f496c34ea8ec09af3522823e75eb4df26d9a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d3232323232323f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f7375646970746f67686f736839392f" alt="Linkedin" data-canonical-src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/aflianm20/" style="max-width: 100%;"></a>
 
-- 📫 How to reach me **aflianmahyaruddin@gmail.com**
 
-- ⚡ Fun fact **I think i sleep a lot**
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/aflianm20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aflianm20" height="30" width="40" /></a>
-</p>
-
+```javascript
+const aflian = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "PHP"],
+    askMeAbout: ["web dev", "tech", "app dev"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next"],
+            css: ["Bootstrap", "Tailwind"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            php: ["Laravel"]
+        },
+        databases: ["MySQL", "Mongo DB"],
+        devOps: ["Nginx", "Jenkins"],
+        cloudOps: {
+            gcp: ["Compute Engine", "App Engine", "Cloud Bucket", "Cloud SQL"]
+        }
+    },
+    currentWork: "Intern in Jaklingko Indonesia & RASA Group",
+    funFact: "I like to sleep"
+};
+```
