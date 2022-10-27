@@ -22,6 +22,7 @@ const aflian = {
             php: ["Laravel"]
         },
         databases: ["MySQL", "Mongo DB"],
+        design: ["Figma"],
         devOps: ["Nginx", "Jenkins"],
         cloudOps: {
             gcp: ["Compute Engine", "App Engine", "Cloud Bucket", "Cloud SQL"]
