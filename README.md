@@ -28,7 +28,7 @@ const aflian = {
             gcp: ["Compute Engine", "App Engine", "Cloud Bucket", "Cloud SQL"]
         }
     },
-    currentWork: "Intern in Jaklingko Indonesia & RASA Group",
+    currentWork: "Intern in Jaklingko Indonesia, RASA Group & Satu Dental",
     funFact: "I like to sleep"
 };
 ```
