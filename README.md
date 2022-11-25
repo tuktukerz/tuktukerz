@@ -28,6 +28,14 @@ const aflian = {
             gcp: ["Compute Engine", "App Engine", "Cloud Bucket", "Cloud SQL"]
         }
     },
+    techTraining: {
+        baparekraf: ["IT Support"],
+        bangkitAcademy: ["Cloud Computing"],
+        digitalTalentScholarship: {
+            vsga: ["Junior Web Developer"],
+            fga: ["Metaverse Engineer"]
+        },
+    },
     currentWork: "Intern in Jaklingko Indonesia, RASA Group & Satu Dental",
     funFact: "I like to sleep"
 };
