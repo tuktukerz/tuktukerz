@@ -36,7 +36,7 @@ const aflian = {
             fga: ["Metaverse Engineer"]
         },
     },
-    currentWork: "Intern in Jaklingko Indonesia, RASA Group & Satu Dental",
+    currentWork: "Intern in RASA Group & Satu Dental",
     funFact: "I like to sleep"
 };
 ```
