@@ -21,7 +21,7 @@ const aflian = {
             js: ["Node", "Express"],
             php: ["Laravel"]
         },
-        databases: ["MySQL", "Mongo DB"],
+        databases: ["MySQL", "Mongo DB", "PostgreSQL"],
         design: ["Figma"],
         devOps: ["Nginx", "Jenkins"],
         cloudOps: {
