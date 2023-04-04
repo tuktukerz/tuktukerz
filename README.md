@@ -10,7 +10,7 @@
 ```javascript
 const aflian = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "PHP"],
+    code: ["Javascript", "PHP", "Golang"],
     askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
         frontEnd: {
