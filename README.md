@@ -11,7 +11,7 @@
 const aflian = {
     pronouns: "He" | "Him",
     code: ["Javascript", "PHP", "Golang"],
-    askMeAbout: ["web dev", "tech", "app dev"],
+    askMeAbout: ["web dev", "tech", "app dev", "software engineer"],
     technologies: {
         frontEnd: {
             js: ["React", "Next"],
@@ -34,7 +34,7 @@ const aflian = {
         bangkitAcademy: ["Cloud Computing"],
         digitalTalentScholarship: {
             vsga: ["Junior Web Developer"],
-            fga: ["Metaverse Engineer"]
+            fga: ["Metaverse Engineer", "Scalable Web Services with Golang"]
         },
     },
     currentWork: "Intern in RASA Group & Fulltime in Satu Dental",
