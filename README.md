@@ -25,7 +25,8 @@ const aflian = {
         design: ["Figma"],
         devOps: ["Nginx", "Jenkins"],
         cloudOps: {
-            gcp: ["Compute Engine", "App Engine", "Cloud Bucket", "Cloud SQL"]
+            gcp: ["Compute Engine", "App Engine", "Cloud Bucket", "Cloud SQL"],
+            aws: ["RDS", "EC2", "Lightsail", "S3 Bucket"]
         }
     },
     techTraining: {
